@@ -1,6 +1,6 @@
 .project .projectbox{
     margin: .5rem;
-    border: 2px solid var(--black-body);
+  
 }
 .project .projectbox img{
     border-top-left-radius: .5rem;
@@ -26,7 +26,7 @@
     padding-left: 20px;
 }
 .project .projectbox p{
-    color: var(--white);
+    color: var(--black);
     font-size: 1rem;
     font-weight: bold;
     margin:auto;

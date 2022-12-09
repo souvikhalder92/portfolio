@@ -16,7 +16,7 @@ function ProjectBox(props) {
         <img src={props.img} alt="images" />
         <div className="details">        
           <p>{props.title}</p>
-          <a href={props.link} target="_blank" rel="noopener noreferrer"><i className='fab fa-github'></i></a>
+          <a href={props.link} target="_blank" rel="noopener noreferrer">Live Demo</a>
         </div>
     </div>
   )

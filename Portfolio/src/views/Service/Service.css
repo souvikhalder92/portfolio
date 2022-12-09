@@ -1,5 +1,5 @@
 .services{
-    min-height: 90vh;
+    min-height: 40vh;
     padding: 1rem 3rem;
     font-family: "Readex-Pro", sans-serif;
     background-color: var(--black-body);
@@ -8,6 +8,7 @@
     color: var(--white);
     text-align: center;
     padding-bottom: 2rem;
+    
 }
 .services .boxes{
     display: grid;

@@ -12,11 +12,12 @@
 }
 
 *{
-    padding: 0;
-    margin: 0;
+    padding: auto;
+    margin: auto;
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
+    text-align: center;
 }
 html{
     overflow-x: hidden;
@@ -25,7 +26,7 @@ html{
 }
 body{
     overflow-x: hidden;
-    background: var(--black-body) ;
+    background: var(--white);
     -webkit-tap-highlight-color: transparent;
 }
 .body{
